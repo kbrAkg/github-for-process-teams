@@ -1,0 +1,11 @@
+# General
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Temporary
+*.tmp
+*.log

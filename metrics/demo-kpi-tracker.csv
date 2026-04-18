@@ -1,0 +1,7 @@
+MetricID,MetricName,Baseline,Target,Measured,Unit,Notes
+M-001,Surec analizi hazirlama suresi,90,45,,minute,Copilot oncesi vs sonrasi
+M-002,Risk kaydi tamlik puani,55,85,,percent,Zorunlu alan doluluk orani
+M-003,Issue olgunluk puani,40,80,,percent,Baslik + kabul kriteri + oncelik + sahip
+M-004,UAT kapsam puani,50,85,,percent,pozitif + negatif + edge-case kapsami
+M-005,Karar netligi puani,45,80,,percent,yonetici ozetinde karar maddesi netligi
+M-006,Rework orani,32,15,,percent,tekrar duzeltme ihtiyaci

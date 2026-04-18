@@ -1,0 +1,21 @@
+RiskID,RiskTitle,RiskDescription,Category,Probability(1-5),Impact(1-5),CurrentControl,ControlEffectiveness(1-5),Owner,Status,TargetDate
+R-001,Eksik KYC Belgesi,Zorunlu KYC belgeleri tamamlanmadan onboarding ilerliyor,Compliance,4,5,Manuel evrak kontrol listesi,2,Compliance Analyst,Open,2026-05-10
+R-002,Sozlesme Surum Karmasasi,Farkli sozlesme surumleri e-posta zincirinde karisiyor,Legal,3,4,Paylasimli klasor,2,Legal Counsel,Open,2026-05-20
+R-003,SLA Asimi,Onay adimlarinda sorumlu belirsizligi nedeniyle gecikme,Operations,5,4,Haftalik durum toplantisi,2,Procurement Lead,Open,2026-05-05
+R-004,Yuksek Riskli Ulke Atlamasi,Yuksek riskli ulke kontrolleri her kayitta tetiklenmiyor,Compliance,3,5,Manuel ulke kontrolu,1,Compliance Analyst,Open,2026-05-08
+R-005,InfoSec Anket Eksigi,Anket zorunlulugu net olmadigi icin atlanan kayitlar var,Security,4,4,Ekibin tecrubesi,2,InfoSec Reviewer,Open,2026-05-15
+R-006,Finans Dogrulama Gecikmesi,Banka/vergi dogrulamalari farkli sistemde bekliyor,Finance,4,3,Mail hatirlatmasi,2,Finance Ops,Open,2026-05-18
+R-007,Audit Izi Yetersizligi,Karar gerekceleri daginik oldugu icin denetim izi zayif,Governance,3,5,Paylasimli not dokumani,2,Process Owner,Open,2026-05-30
+R-008,Cikar Catismasi,Tedarikci degerlendirmesinde bagimsiz kontrol kaydi yok,Governance,2,5,Yonetsel beyan,2,Compliance Analyst,Open,2026-06-01
+R-009,Veri Gizliligi Ihlali,Hassas belgeler e-posta ekinde sifresiz paylasiliyor,Security,3,5,E-posta farkindalik egitimi,2,InfoSec Reviewer,Open,2026-05-12
+R-010,Tekrarli Veri Girisi,Ayni veri birden fazla ekipte yeniden giriliyor,Operations,5,3,Manuel kontrol,1,Process Owner,Open,2026-05-22
+R-011,Onay Sirasi Tutarsizligi,Bazi kayitlarda hukuk once bazilarinda finans once ilerliyor,Operations,4,3,Duruma gore yorum,1,Procurement Lead,Open,2026-05-16
+R-012,Red Sonrasi Yeniden Basvuru Belirsizligi,Red edilen tedarikciler icin bekleme suresi tanimsiz,Governance,3,3,Vaka bazli karar,1,Legal Counsel,Open,2026-05-28
+R-013,Yetkisiz Erisim,Risk kayit dosyasina rol disi erisimler var,Security,2,4,Klasor izinleri,2,IT Admin,Open,2026-05-19
+R-014,Dil Tutarsizligi,Farkli ekiplerin farkli terimler kullanmasi yanlis yoruma yol aciyor,Quality,4,2,Toplanti notlari,2,Process Owner,Open,2026-05-25
+R-015,Risk Kabul Kriteri Yok,Hangi risk seviyesinde yonetsel onay gerektigi tanimsiz,Governance,3,4,Ust yonetim toplantisi,1,Compliance Analyst,Open,2026-06-05
+R-016,Tedarikci Evrak Sahteciligi,Dogrulama adimlarinda bagimsiz teyit yetersiz,Fraud,2,5,Rastgele kontrol,2,Finance Ops,Open,2026-05-29
+R-017,Is Surekliligi Riski,Kritik tedarikci icin alternatif plan kaydi eksik,BusinessContinuity,3,4,Operasyonel bilgi birikimi,1,Procurement Lead,Open,2026-06-08
+R-018,Eskalasyon Gecikmesi,Kritik vakalarda kim/esik ne zaman eskale edecek net degil,Operations,4,4,Mail ile bilgilendirme,2,Process Owner,Open,2026-05-14
+R-019,Uyum Kontrol Kopyala-Yapistir,Hatali onceki kayit metinleri yeni kayitlara tasiniyor,Compliance,3,3,Manuel gozden gecirme,2,Compliance Analyst,Open,2026-05-24
+R-020,Yetersiz KPI Takibi,KPI tanimlari ekipler arasinda farkli hesaplaniyor,Quality,4,3,Aylik raporlama,2,Process Owner,Open,2026-05-31
