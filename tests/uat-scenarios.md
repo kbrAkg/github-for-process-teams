@@ -46,8 +46,3 @@
 - Beklenen sonuc: Denetim icin gerekli tum kayitlar tek raporda gorulur.
 - Basarisizlik sinyali: Gerekce veya onay sahibi alanlari bos gelir.
 
-## Copilot Gorevi
-Bu seti genislet:
-- Her senaryo icin en az 1 negatif ve 1 edge-case ekle.
-- Beklenen sonucu olculebilir metrikle yaz.
-- Her senaryoya test verisi ornegi ekle.
